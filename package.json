@@ -9,6 +9,12 @@
   },
   "keywords": [],
   "author": "",
+  "contributors": [
+    {
+      "name": "CurryLee30",
+      "email": "lizengjian002@outlook.com"
+    }
+  ],
   "license": "ISC",
   "dependencies": {
     "handlebars": "^4.7.8",
