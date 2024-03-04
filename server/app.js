@@ -6,7 +6,7 @@ app.use(cors());
 
 
 // 引入不同模块路由
-const usersRouter = require('./user');
+const usersRouter = require('./user.ts');
 const finedRouter = require('./fined');
 
 //注册路由
